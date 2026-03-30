@@ -16,6 +16,7 @@ Analizler sırasında aşağıdaki tablolar birbirine bağlanarak kullanılmış
 * **Urunler (Products):** Ürün kategorileri ve fiziksel özellikleri.
 * **ödeme_yöntemi (Payments):** Ödeme tipi ve taksit bilgileri.
 * **Geri_Bildirim (Reviews):** Müşteri memnuniyet puanları ve yorumlar.
+* **çeviri (Category_Translation)**: Portekizce kategori isimlerini İngilizceye karşılığını veren tablo.
 
 ## Öne Çıkan Analizler
 * **Lojistik Hata Tespiti:** Gecikmelerin satıcıdan mı yoksa kargo şirketinden mi kaynaklandığını belirleyen özel skorlama mantığı.
